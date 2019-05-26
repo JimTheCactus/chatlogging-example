@@ -1,0 +1,8 @@
+[submodule "chatlogging"]
+	path = chatlogging
+	url = git@github.com:JimTheCactus/chatlogging.git
+	branch = master
+[submodule "game/scripts/chatlogging"]
+	path = game/scripts/chatlogging
+	url = git@github.com:JimTheCactus/chatlogging.git
+	branch = master
